@@ -1,6 +1,6 @@
 ![logo](https://github.com/aayushporwal/aayushporwal/blob/main/Screenshot%202024-08-10%20120548.png)
 <h1 align="center">Hi 👋, I'm Aayush Porwal</h1>
-<h3 align="center">With a degree in BSC Computer Science and skilled in analytics domain, I make things possible related to data extraction, transformation and make it available for companies to draw meaningful insights from it. Looking for an entry level job in data analytics and business analytics. My professional journey has spanned diverse sectors like edtech, e-commerce, and IT where I use my skills in making predictions and hypotheses to make the business profitable. I am well versed with tools like powerbi and database language SQL. I have also basic knowledge of MS Office. I excel in Data cleaning, data processing, data analysis, data visualization, and making reports. Also, I used insights to solve problems using Microsoft Excel.
+<h3 align="center">With a degree in BSC Computer Science, I transform my career in data to draw insights by doing data extraction, and transformation <br>draw meaningful insights by making reports using Powerbi and Excel.<br> Always ready to join some adventure of data to utilize my skills in analytics.<br> My professional journey has spanned diverse sectors including edtech, and IT.<br> My key skills contribute to Excel, SQl, python and Powerbi 
 </h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif">
